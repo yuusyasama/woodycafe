@@ -129,6 +129,7 @@ input, textarea {
     overflow: hidden;
 }
 .topics dt {
+    font-size: 14px;
     float: left;
     width: 120px;
     background-color: #555555;
